@@ -5,7 +5,8 @@ Point of Sale-System with Spring+Hibernate & Maven
 Getting Started
 ====
 
-Create a folder in your local machine.Open command prompt or GIT_Bash & create repository using git init.  
+Create a folder in your local machine.Open command prompt or GIT_Bash & create repository using git init.
+You can see the project 
 
 How to run & test 
 ========
